@@ -1,0 +1,14 @@
+C:\Users\Sercan\source\repos\FileUploadApi\FileUploadApi\bin\Debug\netcoreapp2.2\FileUploadApi.deps.json
+C:\Users\Sercan\source\repos\FileUploadApi\FileUploadApi\bin\Debug\netcoreapp2.2\FileUploadApi.runtimeconfig.json
+C:\Users\Sercan\source\repos\FileUploadApi\FileUploadApi\bin\Debug\netcoreapp2.2\FileUploadApi.runtimeconfig.dev.json
+C:\Users\Sercan\source\repos\FileUploadApi\FileUploadApi\bin\Debug\netcoreapp2.2\FileUploadApi.dll
+C:\Users\Sercan\source\repos\FileUploadApi\FileUploadApi\obj\Debug\netcoreapp2.2\FileUploadApi.csprojAssemblyReference.cache
+C:\Users\Sercan\source\repos\FileUploadApi\FileUploadApi\obj\Debug\netcoreapp2.2\FileUploadApi.csproj.CoreCompileInputs.cache
+C:\Users\Sercan\source\repos\FileUploadApi\FileUploadApi\obj\Debug\netcoreapp2.2\FileUploadApi.RazorAssemblyInfo.cache
+C:\Users\Sercan\source\repos\FileUploadApi\FileUploadApi\obj\Debug\netcoreapp2.2\FileUploadApi.RazorAssemblyInfo.cs
+C:\Users\Sercan\source\repos\FileUploadApi\FileUploadApi\obj\Debug\netcoreapp2.2\FileUploadApi.AssemblyInfoInputs.cache
+C:\Users\Sercan\source\repos\FileUploadApi\FileUploadApi\obj\Debug\netcoreapp2.2\FileUploadApi.AssemblyInfo.cs
+C:\Users\Sercan\source\repos\FileUploadApi\FileUploadApi\obj\Debug\netcoreapp2.2\FileUploadApi.RazorTargetAssemblyInfo.cache
+C:\Users\Sercan\source\repos\FileUploadApi\FileUploadApi\bin\Debug\netcoreapp2.2\FileUploadApi.pdb
+C:\Users\Sercan\source\repos\FileUploadApi\FileUploadApi\obj\Debug\netcoreapp2.2\FileUploadApi.dll
+C:\Users\Sercan\source\repos\FileUploadApi\FileUploadApi\obj\Debug\netcoreapp2.2\FileUploadApi.pdb

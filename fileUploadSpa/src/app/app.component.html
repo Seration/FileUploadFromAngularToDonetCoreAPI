@@ -1,0 +1,21 @@
+<h1 class="text-center m-4" style="color: #fff">File Upload Example</h1>
+
+<form #uploadForm="ngForm" (ngSubmit)="uploadFile()">
+  <div class="wrapper mt-5 mb-5">
+    <div class="file-upload">
+      <input type="file" (change)="fileChange($event)" />
+      <i class="fa fa-arrow-up"></i>
+    </div>
+  </div>
+  <div class="wrapper">
+    <button *ngIf="isFileExist" class="btn btn-primary btn-block"
+      style="max-width: 500px; border-radius: 5%; border:1px #fff solid">Upload
+      Picture</button>
+  </div>
+
+  <div class="wrapper" style="max-width: 500px; margin: auto;" *ngIf="isSuccess" class="alert alert-success"
+    role="alert">
+    Image Uploded Successfully
+  </div>
+
+</form>
